@@ -205,14 +205,14 @@ namespace section_2
             #endregion
 
             #region Generic Lists : Queue
-            Queue<int> Q = new Queue<int>();
-            Q.Enqueue(1);
-            Q.Enqueue(2);
-            Q.Enqueue(3);
-            Q.Enqueue(4);
-            Q.Dequeue();
-            Q.Peek();
-            PrintQueue(Q);
+            //Queue<int> Q = new Queue<int>();
+            //Q.Enqueue(1);
+            //Q.Enqueue(2);
+            //Q.Enqueue(3);
+            //Q.Enqueue(4);
+            //Q.Dequeue();
+            //Q.Peek();
+            //PrintQueue(Q);
             
 
             #endregion
